@@ -1,0 +1,40 @@
+C:\Users\jakuc\Desktop\külker technikum\uj\SAKK DOLGOZAT\SakkDolgozat\bin\Debug\SakkDolgozat.exe.config
+C:\Users\jakuc\Desktop\külker technikum\uj\SAKK DOLGOZAT\SakkDolgozat\bin\Debug\SakkDolgozat.exe
+C:\Users\jakuc\Desktop\külker technikum\uj\SAKK DOLGOZAT\SakkDolgozat\bin\Debug\SakkDolgozat.pdb
+C:\Users\jakuc\Desktop\külker technikum\uj\SAKK DOLGOZAT\SakkDolgozat\obj\Debug\SakkDolgozat.csproj.AssemblyReference.cache
+C:\Users\jakuc\Desktop\külker technikum\uj\SAKK DOLGOZAT\SakkDolgozat\obj\Debug\SakkDolgozat.Form1.resources
+C:\Users\jakuc\Desktop\külker technikum\uj\SAKK DOLGOZAT\SakkDolgozat\obj\Debug\SakkDolgozat.Properties.Resources.resources
+C:\Users\jakuc\Desktop\külker technikum\uj\SAKK DOLGOZAT\SakkDolgozat\obj\Debug\SakkDolgozat.csproj.GenerateResource.cache
+C:\Users\jakuc\Desktop\külker technikum\uj\SAKK DOLGOZAT\SakkDolgozat\obj\Debug\SakkDolgozat.csproj.CoreCompileInputs.cache
+C:\Users\jakuc\Desktop\külker technikum\uj\SAKK DOLGOZAT\SakkDolgozat\obj\Debug\SakkDolgozat.exe
+C:\Users\jakuc\Desktop\külker technikum\uj\SAKK DOLGOZAT\SakkDolgozat\obj\Debug\SakkDolgozat.pdb
+C:\Users\HP\Desktop\Sakk\SakkDolgozat\bin\Debug\SakkDolgozat.exe.config
+C:\Users\HP\Desktop\Sakk\SakkDolgozat\bin\Debug\SakkDolgozat.exe
+C:\Users\HP\Desktop\Sakk\SakkDolgozat\bin\Debug\SakkDolgozat.pdb
+C:\Users\HP\Desktop\Sakk\SakkDolgozat\obj\Debug\SakkDolgozat.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Sakk\SakkDolgozat\obj\Debug\SakkDolgozat.Form1.resources
+C:\Users\HP\Desktop\Sakk\SakkDolgozat\obj\Debug\SakkDolgozat.Properties.Resources.resources
+C:\Users\HP\Desktop\Sakk\SakkDolgozat\obj\Debug\SakkDolgozat.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Sakk\SakkDolgozat\obj\Debug\SakkDolgozat.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Sakk\SakkDolgozat\obj\Debug\SakkDolgozat.exe
+C:\Users\HP\Desktop\Sakk\SakkDolgozat\obj\Debug\SakkDolgozat.pdb
+C:\Users\HP\Desktop\Sakk\Sakk\bin\Debug\SakkDolgozat.exe.config
+C:\Users\HP\Desktop\Sakk\Sakk\bin\Debug\SakkDolgozat.exe
+C:\Users\HP\Desktop\Sakk\Sakk\bin\Debug\SakkDolgozat.pdb
+C:\Users\HP\Desktop\Sakk\Sakk\obj\Debug\SakkDolgozat.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Sakk\Sakk\obj\Debug\SakkDolgozat.Form1.resources
+C:\Users\HP\Desktop\Sakk\Sakk\obj\Debug\SakkDolgozat.Properties.Resources.resources
+C:\Users\HP\Desktop\Sakk\Sakk\obj\Debug\SakkDolgozat.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Sakk\Sakk\obj\Debug\SakkDolgozat.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Sakk\Sakk\obj\Debug\SakkDolgozat.exe
+C:\Users\HP\Desktop\Sakk\Sakk\obj\Debug\SakkDolgozat.pdb
+C:\Users\HP\Desktop\Sakk\bin\Debug\SakkDolgozat.exe.config
+C:\Users\HP\Desktop\Sakk\bin\Debug\SakkDolgozat.exe
+C:\Users\HP\Desktop\Sakk\bin\Debug\SakkDolgozat.pdb
+C:\Users\HP\Desktop\Sakk\obj\Debug\SakkDolgozat.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Sakk\obj\Debug\SakkDolgozat.Form1.resources
+C:\Users\HP\Desktop\Sakk\obj\Debug\SakkDolgozat.Properties.Resources.resources
+C:\Users\HP\Desktop\Sakk\obj\Debug\SakkDolgozat.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Sakk\obj\Debug\SakkDolgozat.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Sakk\obj\Debug\SakkDolgozat.exe
+C:\Users\HP\Desktop\Sakk\obj\Debug\SakkDolgozat.pdb
